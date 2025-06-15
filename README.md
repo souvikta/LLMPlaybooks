@@ -7,7 +7,7 @@ This repository explores the tools, techniques, and tricks that power real-world
 ---
 
 ## Current Notebooks
-
+1. Definitive Guide to chunking.ipynb
 ---
 
 ## Upcoming Notebooks
@@ -25,6 +25,6 @@ This repository explores the tools, techniques, and tricks that power real-world
 
 ---
 
-## 🔗 Related Articles
+## Related Articles
 
 
